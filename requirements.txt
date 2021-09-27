@@ -1,0 +1,5 @@
+pydicom
+python-gdcm
+tensorflow==2.5.0
+nibabel
+scikit-image
