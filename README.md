@@ -3,7 +3,7 @@ Here is the first version, it will be updated with more functions.
 
 3D scan images is based on https://keras.io/examples/vision/3D_image_classification/
 
-![ex]: (https://keras.io/img/examples/vision/3D_image_classification/3D_image_classification_19_0.png)
+![image](https://user-images.githubusercontent.com/33461503/135021457-7d98830a-2dbe-4466-8a4d-e0d3b4bdda64.png)
 
 USAGE:
 - The format image should be dicom file. This version is not used for other formats as original images.
