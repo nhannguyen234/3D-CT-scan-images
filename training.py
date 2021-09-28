@@ -18,7 +18,7 @@ parser.add_option("--save_png", dest="save_png_path", help="Path to save image p
 parser.add_option("--save_nifti", dest="save_nifti_path", help="Path to save nifti files.")
 parser.add_option("--num_epochs", type="int", dest="num_epochs", help="Number of epochs.", default=100)
 parser.add_option("--batch_size", type='int', dest='batch_size', default=32)
-parser.add_option("--output_weight_path", dest='output_weight_path', help="Output path for weights.", default='./')
+parser.add_option("--output_weights_path", dest='output_weights_path', help="Output path for weights.", default='./')
 
 (options, args) = parser.parse_args()
 
