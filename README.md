@@ -27,7 +27,7 @@ USAGE:
              
 - Evaluate your model by using 'testing.py' as the command below:
 
-      !python ./testing.py --nifit_path 'your save nifti files path for testing'\
+      !python ./testing.py --nifti_path 'your save nifti files path for testing'\
                            --input_weights_path 'your input weight path'
                            
 
